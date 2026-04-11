@@ -2,7 +2,7 @@
 <!--                    ✦ tyxben's profile README ✦                  -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=220&section=header&text=hi%20,%20I'm%20ty&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20agents%20that%20actually%20do%20things&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:BB9AF7,100:F7768E&height=220&section=header&text=%24%20whoami&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=building%20agents%20that%20actually%20do%20things&descSize=18&descAlignY=60&descAlign=50" width="100%" alt="header" />
 
 <div align="center">
 
