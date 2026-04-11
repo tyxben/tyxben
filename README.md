@@ -118,22 +118,17 @@ Notes and experiments as I dig into Rust's type system, ownership model, and sys
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=tyxben&show_icons=true&count_private=true&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=c0caf5&bg_color=1a1b26&include_all_commits=true&rank_icon=github" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tyxben&layout=compact&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b26&langs_count=8&hide=html,css" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tyxben&theme=tokyonight" width="96%" alt="profile details" />
 
-<br/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tyxben&theme=tokyonight" alt="stats" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tyxben&theme=tokyonight" alt="top languages" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tyxben&theme=tokyonight" alt="most commit language" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tyxben&theme=tokyonight&utcOffset=8" alt="productive time" />
+
+<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=tyxben&hide_border=true&background=1a1b26&stroke=7aa2f7&ring=bb9af7&fire=f7768e&currStreakNum=c0caf5&currStreakLabel=7aa2f7&sideNums=c0caf5&sideLabels=7aa2f7&dates=565a6e" alt="streak" />
-
-</div>
-
-<br/>
-
-## ✦ trophy wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tyxben&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 
 </div>
 
